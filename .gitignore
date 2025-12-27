@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+node_modules/
+.DS_Store
+*.log
+model/*.pth
+*.pt
+*.h5
